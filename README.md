@@ -11,4 +11,5 @@ Integrantes
 Requisitos para Execução
 
   O projeto deve ser executado no Google Colab.
+  
   Antes de iniciar, faça o upload do arquivo kaggle.json para configurar o acesso à API do Kaggle
