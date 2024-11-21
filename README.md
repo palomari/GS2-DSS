@@ -7,33 +7,34 @@ Integrantes
  Julia Palomari - RM: 551910 & Leticia Fontana - RM: 550289
 
 
-Estrutura do Notebook
+Estrutura do Notebook:
 
-Introdução
- -Apresentação do tema e objetivos do projeto.
+
+ Introdução
+   *Apresentação do tema e objetivos do projeto.
  
-Importação e Configuração
- -Passos iniciais para carregar bibliotecas e datasets. 
+ Importação e Configuração
+   *Passos iniciais para carregar bibliotecas e datasets. 
  
-Pré-processamento
- -Limpeza e ajustes necessários para a análise.
+ Pré-processamento
+   *Limpeza e ajustes necessários para a análise.
  
-Análise Exploratória
- -Estatísticas descritivas e visualizações avançadas para identificação de padrões.
+ Análise Exploratória
+   *Estatísticas descritivas e visualizações avançadas para identificação de padrões.
  
-Modelagem
- -Implementação de algoritmos de:
-  --Regressão (ex.: Regressão Linear).
-  --Classificação (ex.: Random Forest).
- -Comparação de métricas e desempenho.
+ Modelagem
+  *Implementação de algoritmos de:
+    --Regressão (ex.: Regressão Linear).
+    --Classificação (ex.: Random Forest).
+  *Comparação de métricas e desempenho.
  
-Resultados e Discussões
- -Interpretação das análises e resultados dos modelos.
+ Resultados e Discussões
+  *Interpretação das análises e resultados dos modelos.
  
-Conclusão
- -Resumo das descobertas e recomendações.
+ Conclusão
+   *Resumo das descobertas e recomendações.
 
  
 Requisitos para Execução
- -O projeto deve ser executado no Google Colab.
- -Antes de iniciar, faça o upload do arquivo kaggle.json para configurar o acesso à API do Kaggle
+  *O projeto deve ser executado no Google Colab.
+  *Antes de iniciar, faça o upload do arquivo kaggle.json para configurar o acesso à API do Kaggle
